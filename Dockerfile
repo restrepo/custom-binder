@@ -1,0 +1,2 @@
+FROM andrewosh/binder-base
+
